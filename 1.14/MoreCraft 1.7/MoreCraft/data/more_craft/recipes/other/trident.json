@@ -1,0 +1,22 @@
+{
+       "type": "crafting_shaped",
+       "pattern": [
+           "XIX",
+           "XAX",
+           " A "
+       ],
+       "key": {
+           "X": {
+               "item": "minecraft:iron_ingot"
+           },
+		   "A": {
+				"item": "minecraft:diamond"
+			},
+			"I": {
+				"item": "minecraft:iron_nugget"
+			}
+       },
+       "result": {
+           "item": "minecraft:trident"
+       }
+}

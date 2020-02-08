@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+           "AXA",
+           "XZX",
+           "AXA"
+       ],
+       "key": {
+           "X": {
+               "item": "minecraft:coal_block"
+           },
+           "Z": {
+               "item": "minecraft:skeleton_skull"
+            },
+           "A": {
+               "item": "minecraft:diamond"
+            }
+       },
+        "result": {
+            "item": "minecraft:wither_skeleton_skull",
+            "count": 1
+        }
+}
