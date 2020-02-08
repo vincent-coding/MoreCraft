@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+           " X ",
+           "XZX",
+           " X "
+       ],
+       "key": {
+           "X": {
+               "item": "minecraft:cobblestone"
+           },
+           "Z": {
+               "item": "minecraft:lava_bucket"
+            }
+       },
+        "result": {
+            "item": "minecraft:magma_block",
+            "count": 2
+        }
+}

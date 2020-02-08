@@ -1,0 +1,23 @@
+{
+       "type": "crafting_shaped",
+       "pattern": [
+           "XIX",
+           "IAI",
+           " I "
+       ],
+       "key": {
+           "X": {
+               "item": "minecraft:emerald"
+           },
+		   "I": {
+				"item": "minecraft:gold_ingot"
+			},
+			"A": {
+				"item": "minecraft:enchanted_golden_apple"
+			}
+       },
+       "result": {
+           "item": "minecraft:totem_of_undying",
+			"count": 2
+       }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+           "AXA",
+           "XZX",
+           "AXA"
+       ],
+       "key": {
+           "X": {
+               "item": "minecraft:bone"
+           },
+           "Z": {
+               "item": "minecraft:diamond"
+            },
+           "A": {
+               "item": "minecraft:bone_block"
+            }
+       },
+        "result": {
+            "item": "minecraft:skeleton_skull",
+            "count": 1
+        }
+}
